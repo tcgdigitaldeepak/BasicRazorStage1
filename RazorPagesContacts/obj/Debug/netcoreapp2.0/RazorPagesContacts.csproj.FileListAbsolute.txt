@@ -9,3 +9,14 @@ C:\Users\deepakk\Desktop\DEMO\RazorPagesContacts\RazorPagesContacts\obj\Debug\ne
 C:\Users\deepakk\Desktop\DEMO\RazorPagesContacts\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.pdb
 C:\Users\deepakk\Desktop\DEMO\RazorPagesContacts\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.dll
 C:\Users\deepakk\Desktop\DEMO\RazorPagesContacts\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.pdb
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.deps.json
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.runtimeconfig.json
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.runtimeconfig.dev.json
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.dll
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\bin\Debug\netcoreapp2.0\RazorPagesContacts.pdb
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.csprojResolveAssemblyReference.cache
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.csproj.CoreCompileInputs.cache
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfoInputs.cache
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.AssemblyInfo.cs
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.dll
+C:\Users\deepakk\Source\Repos\BasicRazorStage1\RazorPagesContacts\obj\Debug\netcoreapp2.0\RazorPagesContacts.pdb
