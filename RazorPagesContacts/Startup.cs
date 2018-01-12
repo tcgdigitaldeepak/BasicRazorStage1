@@ -23,8 +23,10 @@ namespace RazorPagesContacts
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //RAM DB
             //services.AddDbContext<AppDbContext>(options =>
             //      options.UseInMemoryDatabase("name"));
+            //SQLSERVER DB FIRST
             services.AddDbContext<AppDbContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("Context")));
             services.AddMvc();
